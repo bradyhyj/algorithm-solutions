@@ -28,3 +28,7 @@ output.txt
 # === 4. 운영체제(OS) 생성 쓰레기 파일 ===
 .DS_Store
 Thumbs.db
+
+
+# === 5. CPH 채점기 ===
+.cph/
